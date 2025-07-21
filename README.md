@@ -1,6 +1,4 @@
-Here’s a professional and clear **README.md** section you can use for your GitHub repository, with a strong ethical disclaimer, purpose description, and usage clarification:
 
----
 
 ## 🔍 AI Crime Detector – Weapon Image Dataset
 
